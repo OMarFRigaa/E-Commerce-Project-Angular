@@ -1,55 +1,83 @@
-🛒 Angular E-Commerce
-A modern, responsive e-commerce web application built with Angular. Users can register, browse products, and enjoy a dynamic shopping experience with live form validations and seamless UI flow.
+# 🛍️ Angular E-Commerce Project
 
-📹 Demo
-Watch the live demo here: 📂 Google Drive Demo
+A sleek and modular e-commerce web application built using **Angular 19**.  
+It features a **reactive registration form** with real-time validation, and a **dynamic product listing table** that updates instantly as users interact.  
+Designed with **clean architecture**, **responsive UI**, and practical use of **Angular’s core features** — ideal for learning and demonstrating frontend development skills in a modern framework.
 
-🔍 Overview
-Angular E-Commerce is a component-driven shopping app built using Angular. It includes a user registration form with real-time validation, and a dynamic product list view—all developed with clean architecture and best practices in mind.
 
-🚀 Features
-📝 Reactive Form Validation – Real-time feedback using FormGroup and OnChanges.
+---
 
-📦 Product List Component – Displays registered users or products dynamically.
+## 🎬 Live Demo
 
-🧠 Modular Structure – Separation of concerns for better scalability.
+👉 Watch it in action: [📂 Google Drive Demo](https://drive.google.com/drive/u/0/folders/1hJWutwJld4gSBu31Jkp-DJh-_aKIHHjZ)
 
-📱 Responsive Design – Works smoothly on all screen sizes.
+---
 
-🛠 Tech Stack
-🅰️ Angular 17+
+## 🔎 Overview
 
-🌐 TypeScript
+The **Angular E-Commerce Project** is a mini-shop application designed to showcase core Angular concepts such as:
 
-🎨 Bootstrap 5 – Clean and modern styling
+- Reactive Forms & Validation
+- Component Communication
+- Data Binding & Lifecycle Hooks
+- Reusability through Modular Design
 
-🧪 Reactive Forms – Powerful form handling with built-in validators
+---
 
-💻 Getting Started
-To run the app locally:
+## ✨ Features
 
-bash
-Copy
-Edit
-# 1. Clone the repository
+- ✅ **User Registration**
+  - Real-time field validation using `FormGroup` & `OnChanges`
+  - Error messages and form feedback
+- 📄 **Dynamic Product Table**
+  - Instantly displays submitted users/products
+  - Two-way data binding & reactivity
+- 🔁 **Component-Based Architecture**
+  - Clean separation between logic & UI
+- 📱 **Responsive Layout**
+  - Optimized for desktop and mobile devices
+
+---
+
+## 🧰 Tech Stack
+
+| Layer        | Technology       |
+|--------------|------------------|
+| Frontend     | 🅰️ Angular 19     |
+| Language     | 💙 TypeScript     |
+| Styling      | 🎨 Bootstrap 5    |
+| Forms        | 🧠 Reactive Forms |
+| Tooling      | 🔧 Angular CLI    |
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
 git clone https://github.com/OMarFRigaa/E-Commerce-Project-Angular.git
 
-# 2. Navigate into the project
+# Navigate to the project directory
 cd E-Commerce-Project-Angular
 
-# 3. Install dependencies
+# Install project dependencies
 npm install
 
-# 4. Run the application
+# Start the Angular dev server
 ng serve
 
-# Visit the app at:
+# Visit the app in your browser
 http://localhost:4200
+```
+---
 🙏 Special Thanks
-Eng. Noha Salah – For continuous support and valuable guidance.
 
-Eng. Mostafa Mahmoud Helmy – For technical mentorship and insights.
+**Eng. Noha Salah** – For continuous support and valuable guidance.
 
+**Eng. Mostafa Mahmoud Helmy** – For technical mentorship.
+
+---
 👥 Contributors
-Omar Friga – Developer & Maintainer
-
+**Omar Friga** – Developer & maintainer
